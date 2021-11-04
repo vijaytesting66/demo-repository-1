@@ -1,2 +1,6 @@
 
 firstbranch first file (= file4)
+
+committed once in firstbranch, merged to master
+
+now modified in the firstbranch
